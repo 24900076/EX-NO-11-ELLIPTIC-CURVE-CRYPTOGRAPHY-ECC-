@@ -1,8 +1,6 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
 
 
 ## Aim:
